@@ -1,4 +1,5 @@
-# interview Questions 
+# Android Interview Questions 
+
 ### 1 -> Why does an Android App lag?  
 ### 2 -> What is Context? How is it used?  
 https://amitshekhar.me/blog/context-in-android-application
@@ -17,5 +18,19 @@ https://developer.android.com/studio/projects
 
 ### 5 -> What is AndroidManifest.xml?
 
+
+
+# Data Structure Interview Questions 
+### 1 -> What is a Data Structure?
+
+## List of Topics
+* Array
+* Linked List
+* Hash Table
+* Stack
+* Queue
+* Tree
+* Graph
+
 # Questions 
-* what is singleton class and lifecycle?
+* what are singleton class and lifecycle?
